@@ -1,0 +1,8 @@
+README
+inout.py
+click_example_inout.egg-info/PKG-INFO
+click_example_inout.egg-info/SOURCES.txt
+click_example_inout.egg-info/dependency_links.txt
+click_example_inout.egg-info/entry_points.txt
+click_example_inout.egg-info/requires.txt
+click_example_inout.egg-info/top_level.txt
